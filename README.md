@@ -8,7 +8,13 @@
 ## How-to
 
 1. Navigate into the root folder
-2. Type 'gradlew bootRun'
-3. Wait till the server is up and type the search query in the browser 'http:localhost:8080/search?key=<keyword>'
+2. Type 
+```sh 
+gradlew bootRun
+```
+3. Wait till the server is up and type the search query in the browser 
+```sh
+http:localhost:8080/search?key=<keyword>
+```
 4. See the response
 
